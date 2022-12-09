@@ -1,0 +1,13 @@
+/Enunciado do Trabalho:
+
+Implemente um programa na linguagem Java para gerenciar os veículos que entram e saem do Ifes campus de Alegre.
+
+Um veículo possui as seguintes informações: Placa, Nome do condutor, Data e Hora de entrada e Data e Hora de saída no campus.
+
+O programa será utilizado pelos funcionários da empresa contratada para realizar a vigilância do campus. Quando um veículo entra no campus, deve ser criado um registro com a data e hora de entrada, placa do veículo e nome do condutor. Quando o veículo sair do campus, esse registro deve ser atualizado com a data e hora de saída do veículo.
+
+O programa deve atender os seguintes requisitos:
+
+Deve ser implementado utilizando interface gráfica (JFrame).
+Deve exibir as informações dos veículos em uma tabela (componente JTable).
+Não é necessário persistir as informações em memória secundária (banco de dados, arquivos-texto, etc.).
